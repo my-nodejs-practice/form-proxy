@@ -1,5 +1,12 @@
 # FORM-PROXY
 
+# use
+
+```bash
+npm install
+node proxy.js
+```
+
 http://localhost:3000/login?userName=test&userPassword=123
 
 ```JSON
